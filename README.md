@@ -8,9 +8,9 @@ https://www.youtube.com/watch?v=NJ-uV5GHN8g <br />
 ## Jupyter Notebooks
 [![Run in Saturn Cloud](https://saturncloud.io/images/embed/run-in-saturn-cloud.svg)](https://app.community.saturnenterprise.io/dash/o/community/resources?templateId=c7a1376c6ced4b81a0f82d011a9229f7)
 
-| Jupyter Notebook | Info
-| --- | --- |
-[sdxl_v1.0_controlnet_comfyui_saturncloud](sdxl_v1.0_controlnet_comfyui_saturncloud.md) | [stabilityai/stable-diffusion-xl-base-1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) `controlnet_v1.0.json`
+| Jupyter Notebook | Info | Load
+| --- | --- | --- |
+[sdxl_v1.0_controlnet_comfyui_saturncloud](sdxl_v1.0_controlnet_comfyui_saturncloud.md) | [stabilityai/stable-diffusion-xl-base-1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) | `controlnet_v1.0.json`
 
 #### Jupyter Notebook
 ```py
