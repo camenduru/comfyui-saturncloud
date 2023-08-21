@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=NJ-uV5GHN8g <br />
 
 | Jupyter Notebook | Info
 | --- | --- |
-[sdxl_v1.0_controlnet_comfyui_saturncloud](sdxl_v1.0_controlnet_comfyui_saturncloud.md) | [stabilityai/stable-diffusion-xl-base-1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0)
+[sdxl_v1.0_controlnet_comfyui_saturncloud](sdxl_v1.0_controlnet_comfyui_saturncloud.md) | [stabilityai/stable-diffusion-xl-base-1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) `controlnet_v1.0.json`
 
 #### Jupyter Notebook
 ```py
