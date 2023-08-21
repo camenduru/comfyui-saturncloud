@@ -26,5 +26,5 @@ refiner = "https://huggingface.co/ckpt/sd_xl_refiner_1.0/resolve/main/sd_xl_refi
 
 !aria2c --console-log-level=error -c -x 16 -s 16 -k 1M https://huggingface.co/ckpt/sdxl_vae/resolve/main/sdxl_vae.safetensors -d /home/jovyan/workspace/ComfyUI/models/vae -o sdxl_vae.vae.safetensors
 
-!python main.py --dont-print-server --port 8000
+!python main.py --port 8000 --listen
 ```
