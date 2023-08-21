@@ -48,3 +48,8 @@ refiner = "https://huggingface.co/ckpt/sd_xl_refiner_1.0/resolve/main/sd_xl_refi
 ## Main Repo
 https://github.com/comfyanonymous/ComfyUI
 
+## Output
+
+sdxl_v1.0_controlnet_comfyui_saturncloud
+![Screenshot 2023-08-19 163653](https://github.com/camenduru/sdxl-colab/assets/54370274/c73c00be-2026-488d-a05d-22e5294b57c1)
+
